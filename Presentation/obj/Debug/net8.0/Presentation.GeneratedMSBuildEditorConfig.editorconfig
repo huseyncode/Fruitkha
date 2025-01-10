@@ -17,475 +17,483 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Presentation
 build_property.RootNamespace = Presentation
-build_property.ProjectDir = D:\Development\CodeAcademy\FruitkhaProject\Fruikth\Presentation\
+build_property.ProjectDir = D:\Development\CodeAcademy\Bckend MVC\FruitkhaProject\Presentation\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Development\CodeAcademy\FruitkhaProject\Fruikth\Presentation
+build_property.MSBuildProjectDirectory = D:\Development\CodeAcademy\Bckend MVC\FruitkhaProject\Presentation
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Category/Create.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Category/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Category/Update.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Contact/Details.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Contact/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Contact/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Dashboard/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/News/Create.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/News/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/News/Details.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/News/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/News/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/News/Update.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/News/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Product/Create.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Product/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Product/Update.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/Footer/_Footer.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/Footer/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcRm9vdGVyXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/Menu/_VerticalMenu.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/Menu/_VerticalMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcTWVudVxfVmVydGljYWxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/Navbar/_Navbar.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/Navbar/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcTmF2YmFyXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/Navbar/_NavbarPartial.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/Navbar/_NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcTmF2YmFyXF9OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/_Scripts.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/_Scripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcX1NjcmlwdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/_ScriptsIncludes.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/_ScriptsIncludes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcX1NjcmlwdHNJbmNsdWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/_Styles.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/_Styles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcX1N0eWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Sections/_Variables.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Sections/_Variables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdGlvbnNcX1ZhcmlhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Shared/_BlankLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Shared/_BlankLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Shared/_CommonMasterLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Shared/_CommonMasterLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Db21tb25NYXN0ZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Shared/_ContentNavbarLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Shared/_ContentNavbarLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Db250ZW50TmF2YmFyTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/TeamMember/Create.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/TeamMember/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/TeamMember/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/TeamMember/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/TeamMember/Update.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/TeamMember/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Auth/ForgotPasswordBasic.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Auth/ForgotPasswordBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcQXV0aFxGb3Jnb3RQYXNzd29yZEJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Auth/LoginBasic.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Auth/LoginBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcQXV0aFxMb2dpbkJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Auth/RegisterBasic.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Auth/RegisterBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcQXV0aFxSZWdpc3RlckJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Cards/Basic.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Cards/Basic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcQ2FyZHNcQmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Dashboards/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Dashboards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRGFzaGJvYXJkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/ExtendedUi/PerfectScrollbar.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/ExtendedUi/PerfectScrollbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRXh0ZW5kZWRVaVxQZXJmZWN0U2Nyb2xsYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/ExtendedUi/TextDivider.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/ExtendedUi/TextDivider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRXh0ZW5kZWRVaVxUZXh0RGl2aWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/FormLayouts/Horizontal.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/FormLayouts/Horizontal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRm9ybUxheW91dHNcSG9yaXpvbnRhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/FormLayouts/Vertical.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/FormLayouts/Vertical.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRm9ybUxheW91dHNcVmVydGljYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Forms/BasicInputs.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Forms/BasicInputs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRm9ybXNcQmFzaWNJbnB1dHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Forms/InputGroups.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Forms/InputGroups.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcRm9ybXNcSW5wdXRHcm91cHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Home/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Home/Privacy.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Icons/MdiIcons.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Icons/MdiIcons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcSWNvbnNcTWRpSWNvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Icons/RiIcons.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Icons/RiIcons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcSWNvbnNcUmlJY29ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/LayoutExamples/Blank.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/LayoutExamples/Blank.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcTGF5b3V0RXhhbXBsZXNcQmxhbmsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/LayoutExamples/Container.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/LayoutExamples/Container.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcTGF5b3V0RXhhbXBsZXNcQ29udGFpbmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/LayoutExamples/Fluid.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/LayoutExamples/Fluid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcTGF5b3V0RXhhbXBsZXNcRmx1aWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/LayoutExamples/WithoutMenu.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/LayoutExamples/WithoutMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcTGF5b3V0RXhhbXBsZXNcV2l0aG91dE1lbnUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/LayoutExamples/WithoutNavbar.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/LayoutExamples/WithoutNavbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcTGF5b3V0RXhhbXBsZXNcV2l0aG91dE5hdmJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Pages/AccountSettings.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Pages/AccountSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcUGFnZXNcQWNjb3VudFNldHRpbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Pages/AccountSettingsConnections.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Pages/AccountSettingsConnections.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcUGFnZXNcQWNjb3VudFNldHRpbmdzQ29ubmVjdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Pages/AccountSettingsNotifications.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Pages/AccountSettingsNotifications.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcUGFnZXNcQWNjb3VudFNldHRpbmdzTm90aWZpY2F0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Pages/MiscError.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Pages/MiscError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcUGFnZXNcTWlzY0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Pages/MiscUnderMaintenance.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Pages/MiscUnderMaintenance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcUGFnZXNcTWlzY1VuZGVyTWFpbnRlbmFuY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Error.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/Footer/_Footer.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/Footer/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXEZvb3RlclxfRm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/Menu/_VerticalMenu.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/Menu/_VerticalMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXE1lbnVcX1ZlcnRpY2FsTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/Navbar/_Navbar.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/Navbar/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXE5hdmJhclxfTmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/Navbar/_NavbarPartial.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/Navbar/_NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXE5hdmJhclxfTmF2YmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Scripts.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Scripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXF9TY3JpcHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/_ScriptsIncludes.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/_ScriptsIncludes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXF9TY3JpcHRzSW5jbHVkZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Styles.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Styles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXF9TdHlsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Variables.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/Sections/_Variables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXFNlY3Rpb25zXF9WYXJpYWJsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/_BlankLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/_BlankLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/_CommonMasterLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/_CommonMasterLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXF9Db21tb25NYXN0ZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/_ContentNavbarLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/_ContentNavbarLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXF9Db250ZW50TmF2YmFyTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Tables/Basic.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Tables/Basic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVGFibGVzXEJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Accordion.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Accordion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQWNjb3JkaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Alerts.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Alerts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQWxlcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Badges.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Badges.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQmFkZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Buttons.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Buttons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQnV0dG9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Carousel.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQ2Fyb3VzZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Collapse.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Collapse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcQ29sbGFwc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Dropdowns.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Dropdowns.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcRHJvcGRvd25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Footer.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcRm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/ListGroups.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/ListGroups.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcTGlzdEdyb3Vwcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Modals.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Modals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcTW9kYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Navbar.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcTmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Offcanvas.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Offcanvas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcT2ZmY2FudmFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/PaginationBreadcrumbs.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/PaginationBreadcrumbs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcUGFnaW5hdGlvbkJyZWFkY3J1bWJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Progress.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Progress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcUHJvZ3Jlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Spinners.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Spinners.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcU3Bpbm5lcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/TabsPills.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/TabsPills.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcVGFic1BpbGxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Toasts.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Toasts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcVG9hc3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/TooltipsPopovers.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/TooltipsPopovers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcVG9vbHRpcHNQb3BvdmVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/Ui/Typography.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/Ui/Typography.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcVWlcVHlwb2dyYXBoeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/_Partials/_Macros.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/_Partials/_Macros.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcX1BhcnRpYWxzXF9NYWNyb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/_ViewImports.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/Views/_ViewStart.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/About/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Account/ForgetPassword.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Account/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Account/Login.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Account/Register.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Account/ResetPassword.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Basket/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Basket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Checkout/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Contact/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Home/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/News/Details.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/News/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/News/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Payment/Cancel.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Payment/Cancel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxDYW5jZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Payment/Success.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Payment/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/Notification.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdGlmaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_BlankLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_BlankLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_CommonMasterLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_CommonMasterLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tb25NYXN0ZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_ContentNavbarLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_ContentNavbarLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250ZW50TmF2YmFyTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_SecondLayout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_SecondLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWNvbmRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shop/Details.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shop/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shop/Index.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/_ViewImports.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/_ViewStart.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Development/CodeAcademy/FruitkhaProject/Fruikth/Presentation/Views/Shared/_Layout.cshtml]
+[D:/Development/CodeAcademy/Bckend MVC/FruitkhaProject/Presentation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fhvjq1vla1
