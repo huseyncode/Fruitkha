@@ -132,9 +132,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-For questions or support, please contact the development team:
-- Email: support@fruitkha.com
-```
 
 Feel free to modify any part of this README to better suit your project.
