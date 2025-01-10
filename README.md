@@ -1,6 +1,3 @@
-Sure! Here's the refined version of your project's README based on the provided template. 
-
-```markdown
 # Fruitkha E-commerce Platform
 
 ## Project Overview
