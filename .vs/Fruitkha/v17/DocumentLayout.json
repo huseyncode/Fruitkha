@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\core\\constants\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|solutionrelative:core\\constants\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\business\\services\\concrete\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\areas\\admin\\views\\shared\\_blanklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\shared\\_blanklayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|d:\\development\\codeacademy\\fruitkhaproject\\fruikth\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Core\\Constants\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\UserRoles.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Core\\Constants\\UserRoles.cs",
+              "RelativeToolTip": "Core\\Constants\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:14:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T22:09:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwF0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T22:08:22.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\ProductService.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\ProductService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAmwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:04:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\BasketService.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\BasketService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:03:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\PaymentService.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Business\\Services\\Concrete\\PaymentService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\PaymentService.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAYwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:02:14.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_BlankLayout.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Shared\\_BlankLayout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\Shared\\_BlankLayout.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Shared\\_BlankLayout.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\Shared\\_BlankLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T21:54:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T21:50:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAEIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T21:47:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:42:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:21:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T17:11:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Development\\CodeAcademy\\FruitkhaProject\\Fruikth\\Presentation\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:09:04.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
